@@ -10,3 +10,7 @@ type: dataset
 authors:
   - given-names: Sepideh
     family-names: Aghamolaei
+identifiers:
+  - type: url
+    value: 'https://github.com/saghamolaei/Gaussian_Flowerpot'
+date-released: '2023-12-19'
